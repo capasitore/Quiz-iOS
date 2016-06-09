@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     
     @IBOutlet var answerLabel: UILabel!
     
+    
     let questions: [String] = ["From what is cognac made?",
                                "What is 7+7?",
                                "What is the capital of Vermont?"]
